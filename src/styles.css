@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  background: rgb(24, 108, 110);
+}
+.btn {
+  border-radius: 50%;
+  margin: 20px;
+  background-color: rgb(138, 210, 213);
+  color: rgb(26, 142, 196);
+  height: 35px;
+  width: 50px;
+  font-weight: 900;
+}
+label {
+  color: rgb(131, 238, 225);
+  font-size: 20px;
+  font-weight: 700;
+}
+input {
+  background: rgb(22, 134, 161);
+  border-radius: 10%;
+  padding: 5px;
+  margin: 5px;
+  font-weight: 900;
+  width: 60px;
+  height: 40px;
+}
+h1 {
+  font-weight: 900;
+}
